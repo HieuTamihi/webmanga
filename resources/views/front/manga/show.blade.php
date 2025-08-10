@@ -1,4 +1,4 @@
-<x-headerComponent></x-headerComponent>
+<x-header-component />
 <section class="bg-beige py-10">
     <div class="max-w-5xl mx-auto px-4 md:px-6">
         <div class="max-w-5xl mx-auto space-y-10 px-4 md:px-6 text-center">

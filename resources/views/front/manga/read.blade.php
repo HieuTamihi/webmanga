@@ -1,4 +1,4 @@
-<x-headerComponent></x-headerComponent>
+<x-header-component />
 
 <body class="bg-beige dark:bg-charcoal font-sans transition-colors duration-200">
     <div id="app" class="flex flex-col">

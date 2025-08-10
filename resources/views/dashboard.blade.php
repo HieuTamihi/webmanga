@@ -1,4 +1,4 @@
-<x-headerComponent></x-headerComponent>
+<x-header-component />
 <!-- Genres Modal -->
 <div id="genres-modal" class="fixed inset-0 bg-black/50 hidden items-center justify-center z-50">
     <div id="genres-box"
